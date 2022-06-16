@@ -1,2 +1,2 @@
-# extract_text_summary_openai
-Extract summary from a multiline text
+# Extract text summary
+Extract summary from a multiline text using openai
